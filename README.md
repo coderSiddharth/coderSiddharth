@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making AAA games with big Big CompaCompanies
 - 📫 How to reach me my emailid is siddharthbac09@gmail.com
 
-I Have Also Completed A 45 Class Coding Course With WhiteHatjr and looking forward to Youtube for learning more Of Game Development
+I Have Also Completed a 48 Class Coding Course With WhiteHatjr and looking forward to Youtube for learning more Of Game Development
 
 
 

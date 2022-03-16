@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderSiddharth
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python based Game Development and unity
+- 🌱 I’m currently learning unityBased 2d Game Development
 - 💞️ I’m looking to collaborate on making AAA games with big Big Companies
 - 📫 How to reach me  (email is siddharthbac09@gmail.com)
 
